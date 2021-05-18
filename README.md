@@ -1,8 +1,8 @@
 # Guia
-- [Como instalar](#)
-  - [Tradução de interface](#)
-- [Downloads](#)
-- [Perguntas e dúvidas](#)
+- [Como instalar](#como-instalar-a-tradução-de-interface)
+  - [Tradução de interface](#como-instalar-a-tradução-de-interface)
+- [Downloads](#downloads-e-informações)
+- [Perguntas e dúvidas](#perguntas-e-dúvidas)
 ** **
 ## Como instalar a tradução de interface:
 1. Baixe este projeto.
