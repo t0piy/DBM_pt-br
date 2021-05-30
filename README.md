@@ -14,7 +14,7 @@
 Todo o conteúdo de ações, eventos e extensões foram copiados do repositório [_DBM Mods_](https://github.com/dbm-network/mods)
 |       Download      |  Progresso (%)  |
 | ------------------- | ------------------- |
-| [Interface](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/t0piy/DBM_pt-br/tree/main/translations) | 9X% (370/≅370) |
+| [Interface](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/t0piy/DBM_pt-br/tree/main/translations) | 9X% (370/~370) |
 ---
 ## Perguntas e dúvidas.
 > Onde fica localizada a pasta do Discord Bot Maker?  
