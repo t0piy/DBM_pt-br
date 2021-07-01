@@ -19,4 +19,4 @@ Todo o conteúdo de ações, eventos e extensões foram copiados do repositório
 ## Perguntas e dúvidas.
 > Onde fica localizada a pasta do Discord Bot Maker?  
 
-**R:** Você pode encontrá-la na pasta de instalação da _Steam_. (Geralmente por padrão em: `C:\Program Files (x86)\Steam\steamapps\common\Discord Bot Maker`). Se não souber onde fica é só ir em sua biblioteca da Steam e clicar com o botão direito no Discord Bot Maker e então: `Gerenciar > Navegar pelos arquivos locais`.
+**R:** Você pode encontrá-la na pasta de instalação da Steam. (Geralmente por padrão em: `C:\Program Files (x86)\Steam\steamapps\common\Discord Bot Maker`). Se não souber onde fica é só ir em sua biblioteca da Steam e clicar com o botão direito no Discord Bot Maker e então: `Gerenciar > Navegar pelos arquivos locais`.
